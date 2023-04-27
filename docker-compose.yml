@@ -5,6 +5,6 @@ services:
     ports:
       - '5000:5000'
   sensor_app:
-    build: ./SensorApp/
+    build: ./SensorAppUpdated/
     ports:
       - '8080:8080'

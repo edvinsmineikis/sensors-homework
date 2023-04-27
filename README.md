@@ -11,7 +11,7 @@ Create Vue.js Web application that is able to show data from sensors. Vue.js Web
 ```
 git clone https://github.com/edvinsmineikis/sensors-homework.git
 cd sensors-homework
-docker compose up
+docker compose up --build
 ```
 3. Open your browser and go to [localhost:8080](http://localhost:8080).
 
